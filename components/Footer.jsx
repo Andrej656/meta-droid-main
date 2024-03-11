@@ -26,11 +26,11 @@ const Footer = () => (
             className="w-[24px] h-[24px] object-contain"
           />
           <span className="font-normal text-[16px] text-white">
-    Udji mala u moju sobu
+               Udji mala u moju sobu
           </span>
         </button>
       </div>
-
+ 
       <div className="flex flex-col">
         <div className="mb-[50px] h-[2px] bg-white opacity-10" />
 
